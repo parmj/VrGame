@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 39ede4c6385d8de42bd78bfab29503fa
+timeCreated: 1480209303
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Landscape
+    100002: Landscape_1
+    100004: Landscape_10
+    100006: Landscape_11
+    100008: Landscape_11_2
+    100010: Landscape_12
+    100012: Landscape_13
+    100014: Landscape_14
+    100016: Landscape_15
+    100018: Landscape_16
+    100020: Landscape_2
+    100022: Landscape_3
+    100024: Landscape_4
+    100026: Landscape_5
+    100028: Landscape_6
+    100030: Landscape_7
+    100032: Landscape_8
+    100034: Landscape_9
+    100036: //RootNode
+    100038: Null
+    100040: Plane
+    400000: Landscape
+    400002: Landscape_1
+    400004: Landscape_10
+    400006: Landscape_11
+    400008: Landscape_11_2
+    400010: Landscape_12
+    400012: Landscape_13
+    400014: Landscape_14
+    400016: Landscape_15
+    400018: Landscape_16
+    400020: Landscape_2
+    400022: Landscape_3
+    400024: Landscape_4
+    400026: Landscape_5
+    400028: Landscape_6
+    400030: Landscape_7
+    400032: Landscape_8
+    400034: Landscape_9
+    400036: //RootNode
+    400038: Null
+    400040: Plane
+    2300000: Landscape
+    2300002: Landscape_1
+    2300004: Landscape_10
+    2300006: Landscape_11
+    2300008: Landscape_11_2
+    2300010: Landscape_12
+    2300012: Landscape_13
+    2300014: Landscape_14
+    2300016: Landscape_15
+    2300018: Landscape_16
+    2300020: Landscape_2
+    2300022: Landscape_3
+    2300024: Landscape_4
+    2300026: Landscape_5
+    2300028: Landscape_6
+    2300030: Landscape_7
+    2300032: Landscape_8
+    2300034: Landscape_9
+    2300036: Plane
+    3300000: Landscape
+    3300002: Landscape_1
+    3300004: Landscape_10
+    3300006: Landscape_11
+    3300008: Landscape_11_2
+    3300010: Landscape_12
+    3300012: Landscape_13
+    3300014: Landscape_14
+    3300016: Landscape_15
+    3300018: Landscape_16
+    3300020: Landscape_2
+    3300022: Landscape_3
+    3300024: Landscape_4
+    3300026: Landscape_5
+    3300028: Landscape_6
+    3300030: Landscape_7
+    3300032: Landscape_8
+    3300034: Landscape_9
+    3300036: Plane
+    4300000: Landscape_11
+    4300002: Landscape_16
+    4300004: Landscape_15
+    4300006: Landscape_14
+    4300008: Landscape_13
+    4300010: Landscape_12
+    4300012: Landscape_11_2
+    4300014: Landscape_10
+    4300016: Landscape_9
+    4300018: Landscape_8
+    4300020: Landscape_7
+    4300022: Landscape_6
+    4300024: Landscape_5
+    4300026: Landscape_4
+    4300028: Landscape_3
+    4300030: Landscape_2
+    4300032: Landscape_1
+    4300034: Plane
+    4300036: Landscape
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

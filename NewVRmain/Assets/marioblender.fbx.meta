@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: c2f0f06880a792e44babeb8374f3c7e9
+timeCreated: 1479515465
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: Bone
+    100006: Bone 1
+    100008: Bone.001
+    100010: Bone.001 1
+    100012: Bone.002
+    100014: Bone.002 1
+    100016: Bone.002_end
+    100018: Bone.003
+    100020: Bone.003 1
+    100022: Bone.003_end
+    100024: Bone.003_end 1
+    100026: Bone.004
+    100028: Bone.004_end
+    100030: Boole
+    100032: Camera
+    100034: Cube_3
+    100036: Lamp
+    100038: //RootNode
+    100040: Platonic
+    100042: Stem
+    100044: Symmetry
+    100046: teeth
+    100048: Tube
+    100050: Tube_1
+    400000: Armature
+    400002: Armature.001
+    400004: Bone
+    400006: Bone 1
+    400008: Bone.001
+    400010: Bone.001 1
+    400012: Bone.002
+    400014: Bone.002 1
+    400016: Bone.002_end
+    400018: Bone.003
+    400020: Bone.003 1
+    400022: Bone.003_end
+    400024: Bone.003_end 1
+    400026: Bone.004
+    400028: Bone.004_end
+    400030: Boole
+    400032: Camera
+    400034: Cube_3
+    400036: Lamp
+    400038: //RootNode
+    400040: Platonic
+    400042: Stem
+    400044: Symmetry
+    400046: teeth
+    400048: Tube
+    400050: Tube_1
+    2300000: Tube
+    2300002: Tube_1
+    3300000: Tube
+    3300002: Tube_1
+    4300000: Platonic
+    4300002: Stem
+    4300004: Tube
+    4300006: Tube_1
+    7400000: Armature|ArmatureAction
+    7400002: Armature|Head|Main|Layer0
+    7400004: Armature|PlatonicAction
+    7400006: Armature.001|Armature.001Action
+    7400008: Armature.001|ArmatureAction
+    7400010: Armature.001|Head|Main|Layer0
+    7400012: Armature.001|PlatonicAction
+    7400014: Armature|ArmatureAction0
+    7400016: Armature|ArmatureAction1
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Platonic
+    13700002: Stem
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|ArmatureAction
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone.003
+        weight: 1
+      - path: Armature/Bone/Bone.003/Bone.003_end
+        weight: 1
+      - path: Armature/Bone.001
+        weight: 1
+      - path: Armature/Bone.001/Bone.002
+        weight: 1
+      - path: Armature/Bone.001/Bone.002/Bone.002_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Platonic
+        weight: 1
+      - path: Platonic/Armature.001
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1/Bone.002 1
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1/Bone.002 1/Bone.001 1
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1/Bone.002 1/Bone.001 1/Bone.003 1
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1/Bone.002 1/Bone.001 1/Bone.003 1/Bone.003_end
+          1
+        weight: 1
+      - path: Platonic/Armature.001/Bone.004
+        weight: 1
+      - path: Platonic/Armature.001/Bone.004/Bone.004_end
+        weight: 1
+      - path: Platonic/Stem
+        weight: 1
+      - path: Platonic/teeth
+        weight: 1
+      - path: Symmetry
+        weight: 1
+      - path: Symmetry/Boole
+        weight: 1
+      - path: Symmetry/Boole/Cube_3
+        weight: 1
+      - path: Tube
+        weight: 1
+      - path: Tube_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|ArmatureAction0
+      takeName: Armature|ArmatureAction
+      firstFrame: 50
+      lastFrame: 102
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone.003
+        weight: 1
+      - path: Armature/Bone/Bone.003/Bone.003_end
+        weight: 1
+      - path: Armature/Bone.001
+        weight: 1
+      - path: Armature/Bone.001/Bone.002
+        weight: 1
+      - path: Armature/Bone.001/Bone.002/Bone.002_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Platonic
+        weight: 1
+      - path: Platonic/Armature.001
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1/Bone.002 1
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1/Bone.002 1/Bone.001 1
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1/Bone.002 1/Bone.001 1/Bone.003 1
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1/Bone.002 1/Bone.001 1/Bone.003 1/Bone.003_end
+          1
+        weight: 1
+      - path: Platonic/Armature.001/Bone.004
+        weight: 1
+      - path: Platonic/Armature.001/Bone.004/Bone.004_end
+        weight: 1
+      - path: Platonic/Stem
+        weight: 1
+      - path: Platonic/teeth
+        weight: 1
+      - path: Symmetry
+        weight: 1
+      - path: Symmetry/Boole
+        weight: 1
+      - path: Symmetry/Boole/Cube_3
+        weight: 1
+      - path: Tube
+        weight: 1
+      - path: Tube_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|ArmatureAction1
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 102
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone.003
+        weight: 1
+      - path: Armature/Bone/Bone.003/Bone.003_end
+        weight: 1
+      - path: Armature/Bone.001
+        weight: 1
+      - path: Armature/Bone.001/Bone.002
+        weight: 1
+      - path: Armature/Bone.001/Bone.002/Bone.002_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Platonic
+        weight: 1
+      - path: Platonic/Armature.001
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1/Bone.002 1
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1/Bone.002 1/Bone.001 1
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1/Bone.002 1/Bone.001 1/Bone.003 1
+        weight: 1
+      - path: Platonic/Armature.001/Bone 1/Bone.002 1/Bone.001 1/Bone.003 1/Bone.003_end
+          1
+        weight: 1
+      - path: Platonic/Armature.001/Bone.004
+        weight: 1
+      - path: Platonic/Armature.001/Bone.004/Bone.004_end
+        weight: 1
+      - path: Platonic/Stem
+        weight: 1
+      - path: Platonic/teeth
+        weight: 1
+      - path: Symmetry
+        weight: 1
+      - path: Symmetry/Boole
+        weight: 1
+      - path: Symmetry/Boole/Cube_3
+        weight: 1
+      - path: Tube
+        weight: 1
+      - path: Tube_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
